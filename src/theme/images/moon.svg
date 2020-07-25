@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="140px" viewBox="0 0 121 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(-15.000000, -6.000000)">
+            <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="152" height="152"></rect>
+            <g id="Group-2" transform="translate(15.000000, 6.000000)" fill="#FAD87A">
+                <path d="M95.32,123.997 C104.62,123.997 113.38,121.629 121.03,117.449 C108.37,131.085 90.29,139.598 70.24,139.598 C31.953,139.598 0.907,108.552 0.907,70.265 C0.907,31.978 31.953,0.933 70.24,0.933 C90.29,0.933 108.37,9.445 121.03,23.08 C113.38,18.901 104.62,16.532 95.32,16.532 C65.64,16.532 41.582,40.587 41.582,70.265 C41.582,99.943 65.64,123.997 95.32,123.997" id="Fill-48"></path>
+            </g>
+        </g>
+    </g>
+</svg>
